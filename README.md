@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: a little bit of C#, .NET Framework, WPF, DirectX 12, Python Blender API, game mathematics and 3D Modeling
 
-- 🪚 I have 20+ repositories. If I'm not contributing publicly I probably work on one of my private projects or I'm doing 3D Modeling
+- 🪚 I have 20+ repositories. If I'm not contributing publicly I probably work on one of my private projects, I'm coding in my full time job or I'm doing 3D Modeling
 
 #
 
