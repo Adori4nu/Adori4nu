@@ -4,12 +4,18 @@
 
 - 🌱 I’m currently learning: a little bit of C#, .NET Framework, WPF, DirectX 12, Python Blender API, game mathematics and 3D Modeling
 
-- 🪚 I have 20+ repositories. If I'm not contributing publicly I probably work on one of my private projects
+- 🪚 I have 20+ repositories. If I'm not contributing publicly I probably work on one of my private projects or I'm doing 3D Modeling
+
 #
+
 Hobbies:
 - 3D Modeling 🎨
 
 - Gym 🏋️
+
+#
+<br/>
+⚡ Fun fact: I didn't even have a driving license while I was software developer for automotive industry 🏎️.
 <!--
 **Adori4nu/Adori4nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
