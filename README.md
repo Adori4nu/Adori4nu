@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: my family's furniture store website build with WordPress and WooCommrerce, Betheme
 
-- 🌱 I’m currently learning: a little bit of C#, .NET Framework, WPF, DirectX 12, Python Blender API, game mathematics and 3D Modeling
+- 🌱 I’m currently learning: Unreal Engine 5, a little bit of C#, .NET Framework, WPF, DirectX 12, Python Blender API, game mathematics and 3D Modeling
 
 - 🪚 I have 20+ repositories. If I'm not contributing publicly I probably work on one of my private projects, I'm coding in my full time job or I'm doing 3D Modeling
 
